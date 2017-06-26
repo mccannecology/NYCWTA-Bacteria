@@ -1,0 +1,355 @@
+site,date,time,reported_entero_MPN_100_per_mL,notes,entero_MPN_100_per_mL,rainfall_0,rainfall_1,rainfall_2,rainfall_3,rainfall_4,rainfall_5,rainfall_6,rainfall_sum_24,rainfall_sum_48,rainfall_sum_72,rainfall_pres_24,rainfall_pres_48,rainfall_pres_72
+"JFK Marina (Yonkers), Hudson River",6/22/2017,7:34 AM,52,,52,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/22/2017,8:00 AM,96,,96,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",6/22/2017,12:32 PM,41,,41,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Van Cortlandt Park Lake, Bronx",6/22/2017,8:45 AM,98,,98,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Muscota Marsh, Harlem River",6/22/2017,,108,,108,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"North Cove, Harlem River",6/22/2017,,279,,279,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",6/22/2017,9:56 AM,86,,86,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Bronx Kill West, Randalls Island",6/22/2017,9:06 AM,2064,,2064,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Bronx Kill East, Randalls Island",6/22/2017,8:41,1127,,1127,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Little Hell Gate, Randalls Island",6/22/2017,9:48 AM,1723,,1723,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Inwood Canoe Club, Hudson River",6/22/2017,8:05 AM,63,,63,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"West 172nd Street, Hudson River",6/22/2017,8:52 AM,110,,110,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"West 145th Street, Hudson River",6/22/2017,9:24 AM,52,,52,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"West 133rd St., Hudson River",6/22/2017,9:36 AM,86,,86,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier I (70th Street), Hudson River",6/22/2017,9:00 AM,52,,52,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 99 boat ramp, Hudson River",6/22/2017,8:51 AM,749,,749,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 96, Hudson River ",6/22/2017,8:23 AM,20,,20,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 84, Hudson River ",6/22/2017,8:13 AM,30,,30,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 66, Hudson River ",6/22/2017,,,,,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 40, Hudson River",6/22/2017,11:10 AM,<10,,5,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 26, Hudson River ",6/22/2017,9:28 AM,<10,,5,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Weehawken Cove, Hudson River",6/22/2017,7:25 AM,1376,,1376,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 13 (Hoboken), Hudson River",6/22/2017,7:30 AM,52,,52,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Hoboken Cove Beach, Hudson River",6/22/2017,7:35 AM,109,,109,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Frank Sinatra Park, Hoboken",6/22/2017,7:45 AM,63,108 (lab split),63,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"SUNY Maritime, East River",6/22/2017,11:30 AM,20,,20,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/22/2017,11:16 AM,74,,74,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/22/2017,11:24 AM,30,,30,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/22/2017,11:07 AM,52,,52,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+Flushing Creek,6/22/2017,10:55 AM,161,,161,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/22/2017,11:47 AM,128,,128,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+Little Neck Bay,6/22/2017,9:00 AM,41,,41,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Hallets Cove, East River",6/22/2017,,,,,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Anable Basin, East River",6/22/2017,,,,,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Gantry State Park, East River",6/22/2017,12:10 PM,20,,20,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",6/22/2017,8:25 AM,228,1470 (lab split),228,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Dutch Kills (head), Newtown Creek",6/22/2017,10:45 AM,1989,,1989,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Dutch Kills (mouth), Newtown Creek",6/22/2017,10:25 AM,767,,767,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Apollo Street, Newtown Creek",6/22/2017,8:55 AM,<10,,5,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"East Branch, Newtown Creek",6/22/2017,9:30 AM,776,,776,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Turning Basin, Newtown Creek",6/22/2017,9:10 AM,10,,10,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"English Kills, Newtown Creek",6/22/2017,9:45 AM,171,,171,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+Bushwick Inlet Park,6/22/2017,6:45 AM,1022,,1022,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Stuyvesant Cove, East River",6/22/2017,10:27 AM,30,,30,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/22/2017,7:45 AM,185,,185,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 42/Jackson St., East River",6/22/2017,10:53 AM,<10,,5,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Main Street Beach (Dumbo), East River",6/22/2017,,,,,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/22/2017,,,,,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/22/2017,9:57 AM,10,,10,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/22/2017,9:52 AM,538,,538,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Valentino Pier, Buttermilk Channel",6/22/2017,8:42 AM,676,,676,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",6/22/2017,6:15 AM,426,,426,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Bond Street, Gowanus Canal",6/22/2017,6:10 AM,311,,311,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+Prospect Park Lake,6/22/2017,7:40 AM,51,,51,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",6/22/2017,9:20 AM,223,,223,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Kaiser Park Beach, Coney Island Creek",6/22/2017,9:45 AM,97,,97,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"West 21st St., Coney Island Creek",6/22/2017,10:00 AM,20,,20,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"Sebago Canoe Club, Paerdegat Basin: Jamaica Bay",6/22/2017,7:25 AM,52,,52,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+Canarsie Pier,6/22/2017,8:40 AM,52,,52,0,0,0.03,1.35,Trace,1.39,0,0,0.03,1.38,N,Y,Y
+"JFK Marina (Yonkers), Hudson River",6/15/2017,9:45 AM,<10,,5,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/15/2017,11:00 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",6/15/2017,10:45 AM,109,,109,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Van Cortlandt Park Lake, Bronx",6/15/2017,9:02 AM,90,,90,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Muscota Marsh, Harlem River",6/15/2017,11:20 AM,<10,,5,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"North Cove, Harlem River",6/15/2017,12:52 PM,697,,697,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",6/15/2017,9:56 AM,<10,,5,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Bronx Kill West, Randalls Island",6/15/2017,9:11 AM,305,,305,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Bronx Kill East, Randalls Island",6/15/2017,8:40,86,,86,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Little Hell Gate, Randalls Island",6/15/2017,9:37 AM,737,,737,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Inwood Canoe Club, Hudson River",6/15/2017,9:27 AM,<10,,5,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"West 172nd Street, Hudson River",6/15/2017,9:18 AM,122,,122,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"West 145th Street, Hudson River",6/15/2017,9:31 AM,51,,51,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"West 133rd St., Hudson River",6/15/2017,9:40 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier I (70th Street), Hudson River",6/15/2017,9:00 AM,62,,62,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",6/15/2017,7:53 AM,52,,52,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 96, Hudson River ",6/15/2017,8:30 AM,73,,73,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 84, Hudson River ",6/15/2017,8:22 AM,41,,41,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 66, Hudson River ",6/15/2017,10:57 AM,30,,30,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 40, Hudson River",6/15/2017,11:10 AM,<10,,5,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 26, Hudson River ",6/15/2017,10:40 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Weehawken Cove, Hudson River",6/15/2017,10:30 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",6/15/2017,10:36 AM,31,,31,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",6/15/2017,10:44 AM,441,,441,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Frank Sinatra Park, Hoboken",6/15/2017,10:54 AM,272,,272,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"SUNY Maritime, East River",6/15/2017,,,,,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/15/2017,10:59 AM,31,,31,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/15/2017,11:03 AM,375,,375,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/15/2017,10:46 AM,146,,146,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+Flushing Creek,6/15/2017,10:32 AM,8664,,8664,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/15/2017,11:35 AM,31,,31,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+Little Neck Bay,6/15/2017,9:20 AM,132,,132,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Hallets Cove, East River",6/15/2017,7:27 AM,52,,52,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Anable Basin, East River",6/15/2017,7:47 AM,75,,75,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Gantry State Park, East River",6/15/2017,11:11 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",6/15/2017,9:25 AM,331,,331,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Dutch Kills (head), Newtown Creek",6/15/2017,11:55 AM,52,,52,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Dutch Kills (mouth), Newtown Creek",6/15/2017,11:40 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Apollo Street, Newtown Creek",6/15/2017,9:50 AM,246,24196 (lab split),246,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"East Branch, Newtown Creek",6/15/2017,10:20 AM,15531,,15531,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Turning Basin, Newtown Creek",6/15/2017,10:05 AM,432,,432,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"English Kills, Newtown Creek",6/15/2017,10:35 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+Bushwick Inlet Park,6/15/2017,6:58 AM,30,,30,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Stuyvesant Cove, East River",6/15/2017,10:33 AM,41,,41,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/15/2017,8:18 AM,249,,249,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 42/Jackson St., East River",6/15/2017,11:04 AM,73,,73,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Main Street Beach (Dumbo), East River",6/15/2017,9:27 AM,20,,20,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/15/2017,9:53 AM,10,,10,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/15/2017,9:51 AM,<10,,5,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/15/2017,9:51 AM,20,,20,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",6/15/2017,9:30 AM,148,,148,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",6/15/2017,5:50 AM,241,,241,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Bond Street, Gowanus Canal",6/15/2017,5:43 AM,243,,243,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+Prospect Park Lake,6/15/2017,7:40 AM,195,,195,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",6/15/2017,9:30 AM,1198,,1198,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",6/15/2017,10:10 AM,581,,581,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"West 21st St., Coney Island Creek",6/15/2017,10:00 AM,724,,724,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin: Jamaica Bay",6/15/2017,7:30 AM,146,,146,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+Canarsie Pier,6/15/2017,8:54 AM,1793,,1793,0,0.29,Trace,0,0,0,0,0.29,0.29,0.29,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",6/8/2017,9:46 AM,52,,52,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/8/2017,10:15 AM,63,,63,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",6/8/2017,10:05 AM,185,,185,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Van Cortlandt Park Lake, Bronx",6/8/2017,8:58 AM,113,,113,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Muscota Marsh, Harlem River",6/8/2017,2:30 PM,<10 ,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"North Cove, Harlem River",6/8/2017,11:00 AM,20,,20,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",6/8/2017,9:27 AM,20,,20,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Bronx Kill West, Randalls Island",6/8/2017,9:30 AM,72,,72,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Bronx Kill East, Randalls Island",6/8/2017,9:01,291,,291,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Little Hell Gate, Randalls Island",6/8/2017,10:00 AM,85,,85,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Inwood Canoe Club, Hudson River",6/8/2017,8:35 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"West 172nd Street, Hudson River",6/8/2017,8:45 AM,166,,166,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"West 145th Street, Hudson River",6/8/2017,9:00 AM,52,,52,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"West 133rd St., Hudson River",6/8/2017,9:10 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier I (70th Street), Hudson River",6/8/2017,9:00 AM,20,,20,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 99 boat ramp, Hudson River",6/8/2017,9:46 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 96, Hudson River ",6/8/2017,9:00 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 84, Hudson River ",6/8/2017,9:13 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 66, Hudson River ",6/8/2017,10:46 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 40, Hudson River",6/8/2017,12:30 PM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 26, Hudson River ",6/8/2017,9:23 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Weehawken Cove, Hudson River",6/8/2017,10:05 AM,63,86 (lab split),63,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 13 (Hoboken), Hudson River",6/8/2017,10:15 AM,10,,10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Hoboken Cove Beach, Hudson River",6/8/2017,10:20 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Frank Sinatra Park, Hoboken",6/8/2017,10:30 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"SUNY Maritime, East River",6/8/2017,11:35 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/8/2017,10:47 AM,41,,41,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/8/2017,10:53 AM,171,,171,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/8/2017,10:42 AM,63,,63,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+Flushing Creek,6/8/2017,11:08 AM,52,,52,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/8/2017,11:27 AM,>24196,,24196,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+Little Neck Bay,6/8/2017,9:23 AM,30,,30,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Hallets Cove, East River",6/8/2017,7:15 AM,30,,30,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Anable Basin, East River",6/8/2017,7:30 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Gantry State Park, East River",6/8/2017,,,,,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",6/8/2017,10:45 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Dutch Kills (head), Newtown Creek",6/8/2017,8:20 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Dutch Kills (mouth), Newtown Creek",6/8/2017,8:30 AM,20,,20,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Apollo Street, Newtown Creek",6/8/2017,8:45 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"East Branch, Newtown Creek",6/8/2017,9:20 AM,10,,10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Turning Basin, Newtown Creek",6/8/2017,9:05 AM,10,10 (lab split),10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"English Kills, Newtown Creek",6/8/2017,9:40 AM,10,,10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+Bushwick Inlet Park,6/8/2017,9:32 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Stuyvesant Cove, East River",6/8/2017,10:42 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/8/2017,8:50 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 42/Jackson St., East River",6/8/2017,11:15 AM,10,,10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Main Street Beach (Dumbo), East River",6/8/2017,9:05 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/8/2017,,,,,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/8/2017,9:57 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/8/2017,9:54 AM,10,,10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Valentino Pier, Buttermilk Channel",6/8/2017,9:33 AM,281,,281,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",6/8/2017,6:15 AM,10,,10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Bond Street, Gowanus Canal",6/8/2017,6:15 AM,122,,122,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+Prospect Park Lake,6/8/2017,7:40 AM,95,,95,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",6/8/2017,9:30 AM,331,,331,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Kaiser Park Beach, Coney Island Creek",6/8/2017,10:05 AM,285,,285,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"West 21st St., Coney Island Creek",6/8/2017,9:43 AM,213,,213,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"Sebago Canoe Club, Paerdegat Basin: Jamaica Bay",6/8/2017,9:45 AM,<10,,5,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+Canarsie Pier,6/8/2017,8:53 AM,10,,10,0,0,0.06,0.02,0.09,0.01,0.01,0,0.06,0.08,N,Y,Y
+"JFK Marina (Yonkers), Hudson River",6/1/2017,10:20 AM,10,,10,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/1/2017,10:00 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",6/1/2017,9:50 AM,832,,832,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Van Cortlandt Park Lake, Bronx",6/1/2017,8:37 AM,282,,282,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Muscota Marsh, Harlem River",6/1/2017,9:10 AM,41,,41,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"North Cove, Harlem River",6/1/2017,9:45 AM,122,,122,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",6/1/2017,10:18 AM,74,,74,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Bronx Kill West, Randalls Island",6/1/2017,9:20 AM,1723,,1723,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Bronx Kill East, Randalls Island",6/1/2017,9:00,52,,52,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Little Hell Gate, Randalls Island",6/1/2017,9:20 AM,63,,63,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Inwood Canoe Club, Hudson River",6/1/2017,10:25 AM,122,,122,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"West 172nd Street, Hudson River",6/1/2017,8:15 AM,134,,134,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"West 145th Street, Hudson River",6/1/2017,8:40 AM,183,,183,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"West 133rd St., Hudson River",6/1/2017,8:52 AM,41,,41,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier I (70th Street), Hudson River",6/1/2017,10:20 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",6/1/2017,10:41 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 96, Hudson River ",6/1/2017,8:38 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 84, Hudson River ",6/1/2017,8:28 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 66, Hudson River ",6/1/2017,10:45 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 40, Hudson River",6/1/2017,11:30 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 26, Hudson River ",6/1/2017,9:09 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Weehawken Cove, Hudson River",6/1/2017,10:00 AM,10,,10,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",6/1/2017,10:05 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",6/1/2017,9:40 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Frank Sinatra Park, Hoboken",6/1/2017,9:30 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"SUNY Maritime, East River",6/1/2017,10:46 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/1/2017,11:00 AM,52,,52,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/1/2017,11:04 AM,63,,63,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/1/2017,11:28 AM,14136,,14136,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+Flushing Creek,6/1/2017,11:24 AM,175,,175,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/1/2017,11:43 AM,52,,52,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+Little Neck Bay,6/1/2017,9:23 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Hallets Cove, East River",6/1/2017,11:40 AM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Anable Basin, East River",6/1/2017,12:00 PM,10,,10,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Gantry State Park, East River",6/1/2017,12:08 PM,10,,10,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",6/1/2017,8:38 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Dutch Kills (head), Newtown Creek",6/1/2017,1:35 PM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Dutch Kills (mouth), Newtown Creek",6/1/2017,1:20 PM,20,,20,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Apollo Street, Newtown Creek",6/1/2017,11:45 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"East Branch, Newtown Creek",6/1/2017,12:20 PM,30,,30,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Turning Basin, Newtown Creek",6/1/2017,12:05 PM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"English Kills, Newtown Creek",6/1/2017,12:35 PM,185,,185,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+Bushwick Inlet Park,6/1/2017,9:20 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Stuyvesant Cove, East River",6/1/2017,9:51 AM,10,,10,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/1/2017,8:38 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 42/Jackson St., East River",6/1/2017,11:05 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Main Street Beach (Dumbo), East River",6/1/2017,9:05 AM,<10,<10 (lab split),5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/1/2017,10:36 AM,10,,10,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/1/2017,9:56 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/1/2017,9:52 AM,10,,10,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",6/1/2017,9:37 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",6/1/2017,6:15 AM,31,,31,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Bond Street, Gowanus Canal",6/1/2017,6:15 AM,61,,61,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+Prospect Park Lake,6/1/2017,7:40 AM,109,,109,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",6/1/2017,10:25 AM,82,,82,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",6/1/2017,11:10 AM,71,,71,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"West 21st St., Coney Island Creek",6/1/2017,10:45 AM,52,,52,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin: Jamaica Bay",6/1/2017,10:10 AM,146,,146,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+Canarsie Pier,6/1/2017,9:55 AM,<10,,5,Trace,0.03,0.06,0.13,0,0,0.1,0.03,0.09,0.22,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",5/25/2017,12:03 PM,241,,241,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",5/25/2017,3:15 PM,73,,73,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",5/25/2017,11:48 AM,2755,,2755,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Van Cortlandt Park Lake, Bronx",5/25/2017,8:28 AM,127,146.7 (1:1 dilution),127,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Muscota Marsh, Harlem River",5/25/2017,11:20 AM,86,,86,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"North Cove, Harlem River",5/25/2017,11:48 AM,1314,,1314,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",5/25/2017,9:34 AM,74,,74,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Bronx Kill West, Randalls Island",5/25/2017,9:00 AM,85,,85,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Bronx Kill East, Randalls Island",5/25/2017,8:40 AM,246,,246,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Little Hell Gate, Randalls Island",5/25/2017,9:10 AM,86,,86,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Inwood Canoe Club, Hudson River",5/25/2017,8:15 AM,41,,41,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"West 172nd Street, Hudson River",5/25/2017,8:10 AM,269,,269,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"West 145th Street, Hudson River",5/25/2017,8:44 AM,350,,350,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"West 133rd St., Hudson River",5/25/2017,9:10 AM,2755,,2755,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier I (70th Street), Hudson River",5/25/2017,,,,,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",5/25/2017,10:08 AM,677,,677,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 96, Hudson River ",5/25/2017,8:37 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 84, Hudson River ",5/25/2017,8:24 AM,10,,10,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 66, Hudson River ",5/25/2017,10:58 AM,10,,10,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 40, Hudson River",5/25/2017,11:45 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 26, Hudson River ",5/25/2017,9:04 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Weehawken Cove, Hudson River",5/25/2017,9:00 AM,231,,231,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",5/25/2017,8:40 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",5/25/2017,8:30 AM,1607,,1607,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Frank Sinatra Park, Hoboken",5/25/2017,8:23 AM,75,,75,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"SUNY Maritime, East River",5/25/2017,11:00 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",5/25/2017,11:08 AM,52,,52,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",5/25/2017,11:16 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",5/25/2017,10:42 AM,1989,,1989,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+Flushing Creek,5/25/2017,10:52 AM,3654,,3654,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),5/25/2017,11:35 AM,573,,573,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+Little Neck Bay,5/25/2017,8:45 AM,10,,10,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Hallets Cove, East River",5/25/2017,12:10 PM,14136,,14136,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Anable Basin, East River",5/25/2017,12:30 PM,7701,,7701,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Gantry State Park, East River",5/25/2017,12:07 PM,>24196,,24196,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",5/25/2017,9:21 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Dutch Kills (head), Newtown Creek",5/25/2017,11:40 AM,>24196,,24196,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Dutch Kills (mouth), Newtown Creek",5/25/2017,11:23 AM,<10,,5,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Apollo Street, Newtown Creek",5/25/2017,9:47 AM,379,,379,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"East Branch, Newtown Creek",5/25/2017,10:22 AM,>24196,>24196 (lab split),24196,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Turning Basin, Newtown Creek",5/25/2017,10:02 AM,171,,171,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"English Kills, Newtown Creek",5/25/2017,10:40 AM,1674,,1674,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+Bushwick Inlet Park,5/25/2017,10:32 AM,10,,10,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Stuyvesant Cove, East River",5/25/2017,10:37 AM,10,,10,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",5/25/2017,8:14 AM,84,,84,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 42/Jackson St., East River",5/25/2017,10:15 AM,30,10 (lab split),30,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Main Street Beach (Dumbo), East River",5/25/2017,9:20 AM,41,,41,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",5/25/2017,12:05 PM,52,,52,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",5/25/2017,9:07 AM,10,,10,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",5/25/2017,9:02 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",5/25/2017,8:48 AM,158,,158,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",5/25/2017,6:30 AM,20,,20,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Bond Street, Gowanus Canal",5/25/2017,6:45 AM,74,,74,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+Prospect Park Lake,5/25/2017,7:46 AM,886,,886,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",5/25/2017,11:03 AM,504,,504,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",5/25/2017,11:20 AM,131,,131,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"West 21st St., Coney Island Creek",5/25/2017,,,,,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin: Jamaica Bay",5/25/2017,10:00 AM,<10,,5,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+Canarsie Pier,5/25/2017,10:28 AM,576,,576,0.58,0.04,0,0.59,0,0.01,0,0.62,0.62,1.21,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",5/18/2017,11:00 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Yonkers Paddling and Rowing Club, Hudson River",5/18/2017,11:35 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Yonkers, Saw Mill River (daylighted section)",5/18/2017,11:50 AM,63,,63,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Van Cortlandt Park Lake, Bronx",5/18/2017,8:38 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Muscota Marsh, Harlem River",5/18/2017,7:57 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"North Cove, Harlem River",5/18/2017,8:30 AM,63,,63,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Peter J. Sharp Boathouse, Harlem River",5/18/2017,9:30 AM,63,,63,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Bronx Kill West, Randalls Island",5/18/2017,8:44 AM,1106,,1106,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Bronx Kill East, Randalls Island",5/18/2017,8:22 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Little Hell Gate, Randalls Island",5/18/2017,9:14 AM,401,,401,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Inwood Canoe Club, Hudson River",5/18/2017,9:15 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"West 172nd Street, Hudson River",5/18/2017,8:57 AM,448,,448,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"West 145th Street, Hudson River",5/18/2017,9:32 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"West 133rd St., Hudson River",5/18/2017,,,,,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier I (70th Street), Hudson River",5/18/2017,8:50 AM,52,,52,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 99 boat ramp, Hudson River",5/18/2017,12:45 PM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 96, Hudson River ",5/18/2017,8:30 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 84, Hudson River ",5/18/2017,8:25 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 66, Hudson River ",5/18/2017,8:42 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 40, Hudson River",5/18/2017,12:15 PM,<10,<10 (lab split),5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 26, Hudson River ",5/18/2017,9:37 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Weehawken Cove, Hudson River",5/18/2017,8:43 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 13 (Hoboken), Hudson River",5/18/2017,8:30 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Hoboken Cove Beach, Hudson River",5/18/2017,8:23 AM,52,,52,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Frank Sinatra Park, Hoboken",5/18/2017,8:20 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"SUNY Maritime, East River",5/18/2017,,,,,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"World's Fair Marina Pier 1 East, Flushing Bay",5/18/2017,10:12 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"World's Fair Marina Pier 1 West, Flushing Bay",5/18/2017,10:21 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"World's Fair Marina boat ramp, Flushing Bay",5/18/2017,10:36 AM,62,,62,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+Flushing Creek,5/18/2017,11:03 AM,4160,,4160,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+Meadow Lake (Flushing Meadows-Corona Park),5/18/2017,11:22 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+Little Neck Bay,5/18/2017,9:07 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Hallets Cove, East River",5/18/2017,4:20 PM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Anable Basin, East River",5/18/2017,2:20 PM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Gantry State Park, East River",5/18/2017,11:45 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"North Brooklyn Boat Club, Newtown Creek",5/18/2017,11:39 AM,52,,52,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Dutch Kills (head), Newtown Creek",5/18/2017,1:07 PM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Dutch Kills (mouth), Newtown Creek",5/18/2017,1:43 PM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Apollo Street, Newtown Creek",5/18/2017,12:00 PM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"East Branch, Newtown Creek",5/18/2017,12:30 PM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Turning Basin, Newtown Creek",5/18/2017,12:15 PM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"English Kills, Newtown Creek",5/18/2017,1:00 PM,10,10 (Lab split),10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+Bushwick Inlet Park,5/18/2017,9:17 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Stuyvesant Cove, East River",5/18/2017,10:16 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Wallabout Channel, Brooklyn Navy Yard",5/18/2017,8:58 AM,<10,,5,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 42/Jackson St., East River",5/18/2017,10:38 AM,31,,31,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Main Street Beach (Dumbo), East River",5/18/2017,9:21 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Brooklyn Bridge Beach (Manhattan), East River",5/18/2017,9:24 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",5/18/2017,10:54 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Pier 4 beach, Brooklyn Bridge Park, East River",5/18/2017,10:44 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Valentino Pier, Buttermilk Channel",5/18/2017,10:23 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"2nd St. Sponge Park, Gowanus Canal",5/18/2017,7:02 AM,31,,31,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Bond Street, Gowanus Canal",5/18/2017,7:15 AM,52,,52,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+Prospect Park Lake,5/18/2017,8:00 AM,388,,388,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Calvert Vaux Park, Coney Island Creek ",5/18/2017,,,,,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Kaiser Park Beach, Coney Island Creek",5/18/2017,10:40 AM,10,,10,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"West 21st St., Coney Island Creek",5/18/2017,,,,,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+"Sebago Canoe Club, Paerdegat Basin: Jamaica Bay",5/18/2017,9:30 AM,20,,20,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N
+Canarsie Pier,5/18/2017,,,,,0,0,0,0,0.02,1.61,0,0,0,0,N,N,N

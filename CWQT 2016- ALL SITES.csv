@@ -1,0 +1,1041 @@
+site,date,time,reported_entero_MPN_100_per_mL,Notes,entero_MPN_100_per_mL,rainfall_0,rainfall_1,rainfall_2,rainfall_3,rainfall_4,rainfall_5,rainfall_6,rainfall_sum_24,rainfall_sum_48,rainfall_sum_72,rainfall_pres_24,rainfall_pres_48,rainfall_pres_72
+"JFK Marina (Yonkers), Hudson River",9/29/2016,10:28 AM,2190,,2190,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",9/29/2016,12:29 PM,190,,190,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",9/29/2016,12:42 AM,30,,30,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Muscota Marsh, Harlem River",9/29/2016,11:40 AM,63,,63,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"North Cove, Harlem River",9/29/2016,12:04 PM,97,,97,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",9/29/2016,8:44 AM,20,,20,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Bronx Kill West, Randalls Island",9/29/2016,8:40 AM,135,,135,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Bronx Kill East, Randalls Island",9/29/2016,8:17 AM,121,,121,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Little Hell Gate, Randalls Island",9/29/2016,9:20 AM,75,41 (lab split),75,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Inwood Canoe Club, Hudson River",9/29/2016,8:00 AM,31,,31,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"West 145th Street, Hudson River",9/29/2016,1:20 PM,86,,86,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"West 133rd St., Hudson River",9/29/2016,1:29 PM,20,,20,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"West 100th Street, Hudson River",9/29/2016,1:40 PM,41,,41,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier I (70th Street), Hudson River",9/29/2016,8:30 AM,135,,135,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 99 boat ramp, Hudson River",9/29/2016,8:04 AM,269,,269,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 96, Hudson River ",9/29/2016,7:50 AM,<10,,5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 84, Hudson River ",9/29/2016,7:42 AM,31,,31,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 66, Hudson River ",9/29/2016,10:40 AM,10,,10,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 40, Hudson River",9/29/2016,11:50 AM,<10,,5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 26, Hudson River ",9/29/2016,9:20 AM,<10,,5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 13 (Hoboken), Hudson River",9/29/2016,8:05 AM,10,,10,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Hoboken Cove Beach, Hudson River",9/29/2016,8:10 AM,3873,,3873,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Hunts Point Riverside Park, Bronx River",9/29/2016,,,,,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",9/29/2016,8:42 AM,61,,61,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",9/29/2016,8:32 AM,63,,63,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",9/29/2016,8:20 AM,84,,84,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+Flushing Creek,9/29/2016,9:46 AM,144,,144,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),9/29/2016,10:07 AM,6867,,6867,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+Little Neck Bay,9/29/2016,8:12 AM,<10,,5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Hallets Cove, East River",9/29/2016,3:30 PM,31,,31,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Anable Basin, East River",9/29/2016,11:10 AM,41,,41,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Gantry State Park, East River",9/29/2016,7:07 AM,10,,10,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",9/29/2016,8:04 AM,20,,20,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"North Henry Street, Newtown Creek",9/29/2016,9:50 AM,464,,464,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Stuyvesant Cove, East River",9/29/2016,9:30 AM,<10,10 (lab split),5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+Bushwick Inlet Park,9/29/2016,10:20 AM,1334,,1334,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",9/29/2016,9:10 AM,52,,52,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 42/Jackson St., East River",9/29/2016,10:00 AM,10,,10,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Main Street Beach (Dumbo), East River",9/29/2016,9:57 AM,1517,,1517,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",9/29/2016,10:10 AM,187,,187,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",9/29/2016,10:53 AM,<10,,5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",9/29/2016,10:51 AM,399,,399,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Valentino Pier, Buttermilk Channel",9/29/2016,10:44 AM,52,,52,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",9/29/2016,7:20 AM,<10,,5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Butler St., Gowanus Canal",9/29/2016,7:11 AM,743,,743,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+Prospect Park Lake,9/29/2016,7:40 AM,84,,84,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Pier 101, Governors Island",9/29/2016,,,,,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Bush Terminal Park, Sunset Park",9/29/2016,,,,,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",9/29/2016,9:34 AM,<10,,5,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",9/29/2016,10:25 AM,160,,160,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"Kaiser Park Beach, Coney Island Creek",9/29/2016,10:35 AM,52,,52,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"West 20th St., Coney Island Creek",9/29/2016,,,,,0,0,0.22,0,0,0.2,0.01,0,0.22,0.22,N,Y,Y
+"JFK Marina (Yonkers), Hudson River",9/22/2016,11:25 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Yonkers Paddling and Rowing Club, Hudson River",9/22/2016,10:52 AM,10,,10,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Yonkers, Saw Mill River (daylighted section)",9/22/2016,11:45 AM,85,,85,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Muscota Marsh, Harlem River",9/22/2016,9:55 AM,10,,10,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"North Cove, Harlem River",9/22/2016,11:07 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Peter J. Sharp Boathouse, Harlem River",9/22/2016,8:35 AM,20,,20,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Bronx Kill West, Randalls Island",9/22/2016,9:11 AM,199,,199,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Bronx Kill East, Randalls Island",9/22/2016,8:42 AM,20,,20,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Little Hell Gate, Randalls Island",9/22/2016,9:38 AM,10,,10,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Inwood Canoe Club, Hudson River",9/22/2016,7:49 AM,52,,52,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"West 145th Street, Hudson River",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"West 133rd St., Hudson River",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"West 100th Street, Hudson River",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier I (70th Street), Hudson River",9/22/2016,8:30 AM,20,,20,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 99 boat ramp, Hudson River",9/22/2016,12:56 PM,161,,161,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 96, Hudson River ",9/22/2016,8:04 AM,63,,63,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 84, Hudson River ",9/22/2016,7:53 AM,20,,20,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 66, Hudson River ",9/22/2016,12:00 PM,<10,10 (lab split),5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 40, Hudson River",9/22/2016,12:24 PM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 26, Hudson River ",9/22/2016,10:25 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 13 (Hoboken), Hudson River",9/22/2016,11:00 AM,10,,10,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Hoboken Cove Beach, Hudson River",9/22/2016,11:10 AM,20,,20,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Hunts Point Riverside Park, Bronx River",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",9/22/2016,8:33 AM,96,,96,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",9/22/2016,8:25 AM,359,,359,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"World's Fair Marina boat ramp, Flushing Bay",9/22/2016,8:10 AM,31,,31,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+Flushing Creek,9/22/2016,9:26 AM,228,,228,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+Meadow Lake (Flushing Meadows-Corona Park),9/22/2016,9:43 AM,638,,638,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+Little Neck Bay,9/22/2016,8:21 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Hallets Cove, East River",9/22/2016,8:55 AM,130,,130,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Anable Basin, East River",9/22/2016,10:00 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Gantry State Park, East River",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"North Brooklyn Boat Club, Newtown Creek",9/22/2016,8:42 AM,81,80 (lab split),81,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"North Henry Street, Newtown Creek",9/22/2016,10:37 AM,63,,63,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Stuyvesant Cove, East River",9/22/2016,12:26 PM,51,,51,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+Bushwick Inlet Park,9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Wallabout Channel, Brooklyn Navy Yard",9/22/2016,11:57 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 42/Jackson St., East River",9/22/2016,12:15 PM,10,,10,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Main Street Beach (Dumbo), East River",9/22/2016,11:46 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Brooklyn Bridge Beach (Manhattan), East River",9/22/2016,9:45 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",9/22/2016,9:53 AM,41,,41,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",9/22/2016,9:50 AM,<10,,5,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Valentino Pier, Buttermilk Channel",9/22/2016,9:42 AM,368,,368,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"2nd St. Sponge Park, Gowanus Canal",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Butler St., Gowanus Canal",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+Prospect Park Lake,9/22/2016,8:45 AM,331,,331,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Pier 101, Governors Island",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Bush Terminal Park, Sunset Park",9/22/2016,,,,,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Sebago Canoe Club, Paerdegat Basin",9/22/2016,9:43 AM,51,,51,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Calvert Vaux Park, Coney Island Creek ",9/22/2016,10:00 AM,31,,31,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"Kaiser Park Beach, Coney Island Creek",9/22/2016,10:20 AM,96,,96,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"West 20th St., Coney Island Creek",9/22/2016,6:14 AM,327,,327,0,0,0,0.68,0,0,0,0,0,0.68,N,N,Y
+"JFK Marina (Yonkers), Hudson River",9/15/2016,11:11 AM,160,,160,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",9/15/2016,10:48 AM,150,,150,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",9/15/2016,11:44 AM,50,,50,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Muscota Marsh, Harlem River",9/15/2016,8:15 AM,10,,10,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"North Cove, Harlem River",9/15/2016,8:38 AM,96,,96,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",9/15/2016,10:03 AM,<10,,5,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Bronx Kill West, Randalls Island",9/15/2016,8:35 AM,62,,62,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Bronx Kill East, Randalls Island",9/15/2016,8:25 AM,238,,238,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Little Hell Gate, Randalls Island",9/15/2016,8:52 AM,74,,74,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Inwood Canoe Club, Hudson River",9/15/2016,8:50 AM,153,,153,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"West 145th Street, Hudson River",9/15/2016,9:15 AM,30,,30,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"West 133rd St., Hudson River",9/15/2016,10:00 AM,20,,20,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"West 100th Street, Hudson River",9/15/2016,9:00 AM,120,52 (Lab split),120,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier I (70th Street), Hudson River",9/15/2016,8:30 AM,228,,228,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",9/15/2016,9:11 AM,1723,,1723,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 96, Hudson River ",9/15/2016,10:30 AM,63,,63,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 84, Hudson River ",9/15/2016,10:15 AM,31,,31,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 66, Hudson River ",9/15/2016,11:10 AM,41,,41,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 40, Hudson River",9/15/2016,12:34 PM,31,,31,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 26, Hudson River ",9/15/2016,10:10 AM,31,,31,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",9/15/2016,9:30 AM,31,,31,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",9/15/2016,10:15 AM,226,,226,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",9/15/2016,,,,,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",9/15/2016,8:28 AM,>24196,,24196,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",9/15/2016,8:19 AM,>24196,,24196,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",9/15/2016,8:01 AM,>24196,,24196,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+Flushing Creek,9/15/2016,9:35 AM,24196,,24196,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),9/15/2016,9:52 AM,24196,,24196,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+Little Neck Bay,9/15/2016,8:12 AM,41,,41,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Hallets Cove, East River",9/15/2016,1:10 PM,122,,122,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Anable Basin, East River",9/15/2016,10:45 AM,52,,52,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Gantry State Park, East River",9/15/2016,6:43 AM,97,,97,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",9/15/2016,7:59 AM,>24196,,24196,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"North Henry Street, Newtown Creek",9/15/2016,10:25 AM,12033,,12033,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Stuyvesant Cove, East River",9/15/2016,8:20 AM,132,,132,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+Bushwick Inlet Park,9/15/2016,7:11 AM,616,,616,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",9/15/2016,10:38 AM,>24196,,24196,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 42/Jackson St., East River",9/15/2016,8:40 AM,63,,63,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Main Street Beach (Dumbo), East River",9/15/2016,11:52 AM,63,,63,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",9/15/2016,10:20 AM,285,,285,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",9/15/2016,11:13 AM,31,,31,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",9/15/2016,11:09 AM,489,,489,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",9/15/2016,11:10 AM,30,,30,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",9/15/2016,5:20 AM,241,,241,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Butler St., Gowanus Canal",9/15/2016,5:08 AM,15531,,15531,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+Prospect Park Lake,9/15/2016,7:30 AM,226,,226,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Pier 101, Governors Island",9/15/2016,,,,,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Bush Terminal Park, Sunset Park",9/15/2016,,,,,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",9/15/2016,10:40 AM,<10,,5,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",9/15/2016,10:50 AM,10,,10,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",9/15/2016,10:35 AM,<10,,5,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"West 20th St., Coney Island Creek",9/15/2016,6:46 AM,<10,,5,0,0.56,0,0,0,0,0.22,0.56,0.56,0.56,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",9/8/2016,11:42 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Yonkers Paddling and Rowing Club, Hudson River",9/8/2016,10:25 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Yonkers, Saw Mill River (daylighted section)",9/8/2016,11:54 AM,52,,52,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Muscota Marsh, Harlem River",9/8/2016,11:02 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"North Cove, Harlem River",9/8/2016,11:26 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Peter J. Sharp Boathouse, Harlem River",9/8/2016,8:43 AM,97,,97,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Bronx Kill West, Randalls Island",9/8/2016,8:30 AM,226,,226,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Bronx Kill East, Randalls Island",9/8/2016,8:09 AM,41,,41,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Little Hell Gate, Randalls Island",9/8/2016,8:56 AM,98,,98,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Inwood Canoe Club, Hudson River",9/8/2016,11:30 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 145th Street, Hudson River",9/8/2016,9:24 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 133rd St., Hudson River",9/8/2016,9:39 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 100th Street, Hudson River",9/8/2016,9:01 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier I (70th Street), Hudson River",9/8/2016,8:30 AM,73,,73,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 99 boat ramp, Hudson River",9/8/2016,12:38 PM,63,,63,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 96, Hudson River ",9/8/2016,8:07 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 84, Hudson River ",9/8/2016,7:58 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 66, Hudson River ",9/8/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 40, Hudson River",9/8/2016,12:14 PM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 26, Hudson River ",9/8/2016,12:16 PM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 13 (Hoboken), Hudson River",9/8/2016,11:56 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Hoboken Cove Beach, Hudson River",9/8/2016,12:13 PM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Hunts Point Riverside Park, Bronx River",9/8/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"World's Fair Marina Pier 1 East, Flushing Bay",9/8/2016,8:28 AM,63,,63,0,0,0,0,0,0,0,0,0,0,N,N,N
+"World's Fair Marina Pier 1 West, Flushing Bay",9/8/2016,8:18 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"World's Fair Marina boat ramp, Flushing Bay",9/8/2016,8:06 AM,51,,51,0,0,0,0,0,0,0,0,0,0,N,N,N
+Flushing Creek,9/8/2016,9:45 AM,253,,253,0,0,0,0,0,0,0,0,0,0,N,N,N
+Meadow Lake (Flushing Meadows-Corona Park),9/8/2016,10:00 AM,19863,,19863,0,0,0,0,0,0,0,0,0,0,N,N,N
+Little Neck Bay,9/8/2016,8:12 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Hallets Cove, East River",9/8/2016,4:30 PM,41,,41,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Anable Basin, East River",9/8/2016,9:30 AM,31,,31,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Gantry State Park, East River",9/8/2016,9:52 AM,97,,97,0,0,0,0,0,0,0,0,0,0,N,N,N
+"North Brooklyn Boat Club, Newtown Creek",9/8/2016,8:15 AM,30,,30,0,0,0,0,0,0,0,0,0,0,N,N,N
+"North Henry Street, Newtown Creek",9/8/2016,9:40 AM,158,,158,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Stuyvesant Cove, East River",9/8/2016,9:40 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+Bushwick Inlet Park,9/8/2016,10:40 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Wallabout Channel, Brooklyn Navy Yard",9/8/2016,7:19 AM,109,63 (lab split),109,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 42/Jackson St., East River",9/8/2016,10:20 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Main Street Beach (Dumbo), East River",9/8/2016,7:31 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Brooklyn Bridge Beach (Manhattan), East River",9/8/2016,9:35 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",9/8/2016,10:04 AM,52,,52,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 4 beach, Brooklyn Bridge Park, East River",9/8/2016,10:00 AM,85,,85,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Valentino Pier, Buttermilk Channel",9/8/2016,9:48 AM,110,,110,0,0,0,0,0,0,0,0,0,0,N,N,N
+"2nd St. Sponge Park, Gowanus Canal",9/8/2016,6:48 AM,31,,31,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Butler St., Gowanus Canal",9/8/2016,6:31 AM,801,,801,0,0,0,0,0,0,0,0,0,0,N,N,N
+Prospect Park Lake,9/8/2016,7:30 AM,426,,426,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 101, Governors Island",9/8/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Bush Terminal Park, Sunset Park",9/8/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Sebago Canoe Club, Paerdegat Basin",9/8/2016,9:53 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Calvert Vaux Park, Coney Island Creek ",9/8/2016,10:20 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Kaiser Park Beach, Coney Island Creek",9/8/2016,10:35 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 20th St., Coney Island Creek",9/8/2016,6:02 AM,663,,663,0,0,0,0,0,0,0,0,0,0,N,N,N
+"JFK Marina (Yonkers), Hudson River",9/1/2016,10:40 AM,100,,100,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",9/1/2016,11:00 AM,60,,60,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",9/1/2016,10:50 AM,960,,960,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Muscota Marsh, Harlem River",9/1/2016,10:57 AM,63,,63,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"North Cove, Harlem River",9/1/2016,11:19 AM,63,,63,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",9/1/2016,8:58 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Bronx Kill West, Randalls Island",9/1/2016,9:02 AM,10,,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Bronx Kill East, Randalls Island",9/1/2016,8:42 AM,95,,95,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Little Hell Gate, Randalls Island",9/1/2016,9:30 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Inwood Canoe Club, Hudson River",9/1/2016,8:40 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"West 145th Street, Hudson River",9/1/2016,8:40 AM,108,,108,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"West 133rd St., Hudson River",9/1/2016,8:50 AM,20,,20,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"West 100th Street, Hudson River",9/1/2016,8:15 AM,20,,20,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier I (70th Street), Hudson River",9/1/2016,8:30 AM,108,,108,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",9/1/2016,9:20 AM,2359,,2359,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 96, Hudson River ",9/1/2016,7:57 AM,31,,31,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 84, Hudson River ",9/1/2016,7:40 AM,20,,20,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 66, Hudson River ",9/1/2016,11:33 AM,10,,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 40, Hudson River",9/1/2016,11:54 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 26, Hudson River ",9/1/2016,9:39 AM,31,,31,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",9/1/2016,12:00 PM,10,,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",9/1/2016,12:05 PM,311,,311,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",9/1/2016,,,,,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",9/1/2016,8:13 AM,132,,132,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",9/1/2016,8:05 AM,41,,41,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",9/1/2016,7:42 AM,8297,,8297,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+Flushing Creek,9/1/2016,9:18 AM,275,,275,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),9/1/2016,9:35 AM,>24196,,24196,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+Little Neck Bay,9/1/2016,8:07 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Hallets Cove, East River",9/1/2016,,,,,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Anable Basin, East River",9/1/2016,,,,,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Gantry State Park, East River",9/1/2016,10:30 AM,10,,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",9/1/2016,10:30 AM,10,,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"North Henry Street, Newtown Creek",9/1/2016,10:54 AM,10,,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Stuyvesant Cove, East River",9/1/2016,9:45 AM,20,,20,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+Bushwick Inlet Park,9/1/2016,9:23 AM,31,,31,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",9/1/2016,8:44 AM,75,,75,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 42/Jackson St., East River",9/1/2016,10:10 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Main Street Beach (Dumbo), East River",9/1/2016,8:59 AM,295,,295,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",9/1/2016,11:17 AM,20,,20,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",9/1/2016,9:53 AM,85,,85,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",9/1/2016,9:51 AM,97,,97,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",9/1/2016,,,,,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",9/1/2016,8:50 AM,10,,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Butler St., Gowanus Canal",9/1/2016,9:00 AM,10,non-foam sample,10,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+Prospect Park Lake,9/1/2016,7:30 AM,399,,399,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Pier 101, Governors Island",9/1/2016,,,,,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Bush Terminal Park, Sunset Park",9/1/2016,,,,,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",9/1/2016,10:00 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",9/1/2016,11:15 AM,<10,,5,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",9/1/2016,10:30 AM,41,,41,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"West 20th St., Coney Island Creek",9/1/2016,7:22 AM,571,,571,0.5,0,0,0,0,0,0,0.5,0.5,0.5,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",8/25/2016,10:45 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",8/25/2016,10:30 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",8/25/2016,11:30 AM,355,,355,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Muscota Marsh, Harlem River",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"North Cove, Harlem River",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",8/25/2016,9:57 AM,20,,20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Bronx Kill West, Randalls Island",8/25/2016,9:04 AM,41,,41,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Bronx Kill East, Randalls Island",8/25/2016,8:43 AM,41,,41,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Little Hell Gate, Randalls Island",8/25/2016,9:27 AM,20,,20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Inwood Canoe Club, Hudson River",8/25/2016,10:23 AM,20,31 (lab split),20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"West 145th Street, Hudson River",8/25/2016,8:08 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"West 133rd St., Hudson River",8/25/2016,8:20 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"West 100th Street, Hudson River",8/25/2016,7:45 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier I (70th Street), Hudson River",8/25/2016,8:30 AM,52,,52,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",8/25/2016,1:03 PM,52,,52,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 96, Hudson River ",8/25/2016,8:25 AM,20,,20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 84, Hudson River ",8/25/2016,8:15 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 66, Hudson River ",8/25/2016,11:27 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 40, Hudson River",8/25/2016,12:33 PM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 26, Hudson River ",8/25/2016,10:30 AM,<10,<10 (lab split),5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",8/25/2016,9:07 AM,20,,20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",8/25/2016,9:20 AM,20,,20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",8/25/2016,9:37 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",8/25/2016,9:30 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+Flushing Creek,8/25/2016,10:18 AM,71,,71,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),8/25/2016,10:01 AM,2359,,2359,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+Little Neck Bay,8/25/2016,8:06 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Hallets Cove, East River",8/25/2016,1:20 PM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Anable Basin, East River",8/25/2016,10:20 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Gantry State Park, East River",8/25/2016,2:25 PM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",8/25/2016,7:50 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"North Henry Street, Newtown Creek",8/25/2016,8:12 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Stuyvesant Cove, East River",8/25/2016,10:00 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+Bushwick Inlet Park,8/25/2016,9:02 AM,20,,20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",8/25/2016,10:27 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 42/Jackson St., East River",8/25/2016,10:20 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Main Street Beach (Dumbo), East River",8/25/2016,10:08 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",8/25/2016,9:45 AM,10,,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",8/25/2016,10:02 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",8/25/2016,9:57 AM,63,,63,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",8/25/2016,9:45 AM,<10,,5,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",8/25/2016,6:35 AM,20,,20,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Butler St., Gowanus Canal",8/25/2016,6:27 AM,10,non-foam sample,10,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+Prospect Park Lake,8/25/2016,7:30 AM,85,,85,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Pier 101, Governors Island",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Bush Terminal Park, Sunset Park",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",8/25/2016,9:51 AM,138,,138,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",8/25/2016,,,,,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"West 20th St., Coney Island Creek",8/25/2016,7:30 AM,1785,,1785,0.01,0,0,0,0.31,0.82,0.01,0.01,0.01,0.01,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",8/18/2016,10:10 AM,40,,40,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",8/18/2016,10:35 AM,60,,60,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",8/18/2016,10:23 AM,510,,510,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Muscota Marsh, Harlem River",8/18/2016,11:05 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"North Cove, Harlem River",8/18/2016,11:28 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",8/18/2016,8:52 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Bronx Kill West, Randalls Island",8/18/2016,8:49 AM,63,,63,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Bronx Kill East, Randalls Island",8/18/2016,8:26 AM,72,,72,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Little Hell Gate, Randalls Island",8/18/2016,9:11 AM,10,,10,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Inwood Canoe Club, Hudson River",8/18/2016,7:40 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"West 145th Street, Hudson River",8/18/2016,8:25 AM,74,,74,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"West 133rd St., Hudson River",8/18/2016,8:39 AM,20,,20,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"West 100th Street, Hudson River",8/18/2016,7:53 AM,20,,20,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier I (70th Street), Hudson River",8/18/2016,8:30 AM,63,,63,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",8/18/2016,9:27 AM,3255,,3255,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 96, Hudson River ",8/18/2016,8:00 AM,31,,31,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 84, Hudson River ",8/18/2016,8:12 AM,20,,20,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 66, Hudson River ",8/18/2016,11:23 PM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 40, Hudson River",8/18/2016,12:29 PM,10,,10,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 26, Hudson River ",8/18/2016,10:08 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",8/18/2016,9:19 AM,20,,20,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",8/18/2016,9:31 AM,52,,52,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",8/18/2016,12:33 PM,71,,71,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",8/18/2016,8:20 AM,63,,63,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",8/18/2016,8:15 AM,10,,10,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+Flushing Creek,8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+Little Neck Bay,8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Hallets Cove, East River",8/18/2016,10:05 AM,30,,30,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Anable Basin, East River",8/18/2016,11:00 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Gantry State Park, East River",8/18/2016,8:30 AM,10,,10,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",8/18/2016,11:09 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"North Henry Street, Newtown Creek",8/18/2016,1:26 PM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Stuyvesant Cove, East River",8/18/2016,8:15 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+Bushwick Inlet Park,8/18/2016,9:02 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",8/18/2016,7:30 AM,201,,201,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 42/Jackson St., East River",8/18/2016,8:55 AM,10,,10,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Main Street Beach (Dumbo), East River",8/18/2016,7:45 AM,52,,52,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",8/18/2016,9:38 AM,131,,131,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",8/18/2016,11:16 AM,20,,20,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",8/18/2016,11:12 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",8/18/2016,11:07 AM,10,,10,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",8/18/2016,7:15 AM,20,,20,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Butler St., Gowanus Canal",8/18/2016,7:04 AM,512,Split 420,512,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+Prospect Park Lake,8/18/2016,7:05 AM,464,,464,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Pier 101, Governors Island",8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Bush Terminal Park, Sunset Park",8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",8/18/2016,10:48 AM,<10,,5,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",8/18/2016,,,,,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"West 20th St., Coney Island Creek",8/18/2016,7:39 AM,85,,85,0.03,0.01,0.11,0,0.06,0,0.32,0.04,0.15,0.15,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",8/11/2016,10:51 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",8/11/2016,11:38 AM,84,,84,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",8/11/2016,11:25 AM,457,,457,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Muscota Marsh, Harlem River",8/11/2016,9:22 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"North Cove, Harlem River",8/11/2016,9:48 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",8/11/2016,9:01 AM,31,,31,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Bronx Kill West, Randalls Island",8/11/2016,8:44 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Bronx Kill East, Randalls Island",8/11/2016,8:24 AM,663,,663,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Little Hell Gate, Randalls Island",8/11/2016,9:02 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Inwood Canoe Club, Hudson River",8/11/2016,9:15 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"West 145th Street, Hudson River",8/11/2016,7:46 AM,20,,20,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"West 133rd St., Hudson River",8/11/2016,7:59 AM,30,,30,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"West 100th Street, Hudson River",8/11/2016,7:17 AM,20,,20,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier I (70th Street), Hudson River",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",8/11/2016,8:28 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 96, Hudson River ",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 84, Hudson River ",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 66, Hudson River ",8/11/2016,8:21 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 40, Hudson River",8/11/2016,11:43 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 26, Hudson River ",8/11/2016,10:45 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",8/11/2016,9:30 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",8/11/2016,9:43 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",8/11/2016,12:17 PM,20,,20,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",8/11/2016,8:15 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",8/11/2016,8:26 AM,323,,323,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",8/11/2016,8:12 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+Flushing Creek,8/11/2016,9:55 AM,52,,52,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),8/11/2016,11:00 AM,62,,62,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+Little Neck Bay,8/11/2016,8:42 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Hallets Cove, East River",8/11/2016,1:46 PM,108,,108,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Anable Basin, East River",8/11/2016,10:00 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Gantry State Park, East River",8/11/2016,12:35 PM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",8/11/2016,10:50 AM,20,,20,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"North Henry Street, Newtown Creek",8/11/2016,11:25 AM,74,,74,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Stuyvesant Cove, East River",8/11/2016,8:01 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+Bushwick Inlet Park,8/11/2016,9:15 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",8/11/2016,7:19 AM,31,,31,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 42/Jackson St., East River",8/11/2016,7:47 AM,20,,20,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Main Street Beach (Dumbo), East River",8/11/2016,7:31 AM,10,,10,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",8/11/2016,10:10 AM,20,,20,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",8/11/2016,10:01 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",8/11/2016,9:57 AM,20,,20,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",8/11/2016,9:46 AM,<10,,5,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",8/11/2016,7:10 AM,74,,74,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Butler St., Gowanus Canal",8/11/2016,6:58 AM,1421,,1421,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+Prospect Park Lake,8/11/2016,7:30 AM,41,,41,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Pier 101, Governors Island",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Bush Terminal Park, Sunset Park",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",8/11/2016,9:30 AM,325,,325,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"West 20th St., Coney Island Creek",8/11/2016,,,,,0.15,0.09,0,0,0,0.05,0,0.24,0.24,0.24,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",8/4/2016,10:09 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Yonkers Paddling and Rowing Club, Hudson River",8/4/2016,10:27 AM,40,,40,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Yonkers, Saw Mill River (daylighted section)",8/4/2016,10:46 AM,280,,280,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Muscota Marsh, Harlem River",8/4/2016,10:05 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"North Cove, Harlem River",8/4/2016,10:17 AM,41,,41,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Peter J. Sharp Boathouse, Harlem River",8/4/2016,9:10 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Bronx Kill West, Randalls Island",8/4/2016,8:59 AM,231,,231,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Bronx Kill East, Randalls Island",8/4/2016,8:36 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Little Hell Gate, Randalls Island",8/4/2016,9:22 AM,670,,670,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Inwood Canoe Club, Hudson River",8/4/2016,11:50 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"West 145th Street, Hudson River",8/4/2016,8:25 AM,20,,20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"West 133rd St., Hudson River",8/4/2016,8:48 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"West 100th Street, Hudson River",8/4/2016,8:02 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier I (70th Street), Hudson River",8/4/2016,9:35 AM,20,,20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 99 boat ramp, Hudson River",8/4/2016,8:00 AM,75,,75,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 96, Hudson River ",8/4/2016,7:20 AM,30,,30,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 84, Hudson River ",8/4/2016,7:27 AM,20,,20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 66, Hudson River ",8/4/2016,11:52 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 40, Hudson River",8/4/2016,11:22 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 26, Hudson River ",8/4/2016,9:51 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 13 (Hoboken), Hudson River",8/4/2016,10:10 AM,20,,20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Hoboken Cove Beach, Hudson River",8/4/2016,10:15 AM,41,,41,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Hunts Point Riverside Park, Bronx River",8/4/2016,11:25 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"World's Fair Marina Pier 1 East, Flushing Bay",8/4/2016,8:20 AM,74,,74,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"World's Fair Marina Pier 1 West, Flushing Bay",8/4/2016,8:30 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"World's Fair Marina boat ramp, Flushing Bay",8/4/2016,8:15 AM,134,,134,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+Flushing Creek,8/4/2016,9:32 AM,41,,41,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+Meadow Lake (Flushing Meadows-Corona Park),8/4/2016,9:48 AM,328,,328,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+Little Neck Bay,8/4/2016,8:05 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Hallets Cove, East River",8/4/2016,12:13 PM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Anable Basin, East River",8/4/2016,12:30 PM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Gantry State Park, East River",8/4/2016,10:50 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"North Brooklyn Boat Club, Newtown Creek",8/4/2016,10:37 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"North Henry Street, Newtown Creek",8/4/2016,11:09 AM,20,,20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Stuyvesant Cove, East River",8/4/2016,7:54 AM,41,,41,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+Bushwick Inlet Park,8/4/2016,9:28 AM,30,,30,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Wallabout Channel, Brooklyn Navy Yard",8/4/2016,7:12 AM,98,,98,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 42/Jackson St., East River",8/4/2016,7:41 AM,20,20 (lab split),20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Main Street Beach (Dumbo), East River",8/4/2016,7:24 AM,20,,20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Brooklyn Bridge Beach (Manhattan), East River",8/4/2016,9:52 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",8/4/2016,10:00 AM,<10,,5,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 4 beach, Brooklyn Bridge Park, East River",8/4/2016,9:56 AM,20,,20,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Valentino Pier, Buttermilk Channel",8/4/2016,9:41 AM,41,,41,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"2nd St. Sponge Park, Gowanus Canal",8/4/2016,7:15 AM,109,,109,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Butler St., Gowanus Canal",8/4/2016,7:20 AM,594,,594,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+Prospect Park Lake,8/4/2016,7:30 AM,41,,41,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Pier 101, Governors Island",8/4/2016,,,,,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Bush Terminal Park, Sunset Park",8/4/2016,,,,,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Sebago Canoe Club, Paerdegat Basin",8/4/2016,8:48 AM,10,,10,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Calvert Vaux Park, Coney Island Creek ",8/4/2016,,,,,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"Kaiser Park Beach, Coney Island Creek",8/4/2016,,,,,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"West 20th St., Coney Island Creek",8/4/2016,,,,,0,0,0,0,1.08,0.25,1.09,0,0,0,N,N,N
+"JFK Marina (Yonkers), Hudson River",7/28/2016,1:45 PM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Yonkers Paddling and Rowing Club, Hudson River",7/28/2016,11:45 AM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Yonkers, Saw Mill River (daylighted section)",7/28/2016,11:30 AM,52,,52,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Muscota Marsh, Harlem River",7/28/2016,11:37 AM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"North Cove, Harlem River",7/28/2016,11:07 AM,20,,20,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Peter J. Sharp Boathouse, Harlem River",7/28/2016,10:40 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Bronx Kill West, Randalls Island",7/28/2016,9:20 AM,657,,657,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Bronx Kill East, Randalls Island",7/28/2016,8:37 AM,183,,183,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Little Hell Gate, Randalls Island",7/28/2016,9:53 AM,74,,74,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Inwood Canoe Club, Hudson River",7/28/2016,9:22 AM,41,,41,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"West 145th Street, Hudson River",7/28/2016,7:34 AM,75,,75,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"West 133rd St., Hudson River",7/28/2016,7:46 AM,20,,20,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"West 100th Street, Hudson River",7/28/2016,7:10 AM,63,,63,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier I (70th Street), Hudson River",7/28/2016,8:50 AM,75,,75,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 99 boat ramp, Hudson River",7/28/2016,9:46 AM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 96, Hudson River ",7/28/2016,10:45 AM,20,,20,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 84, Hudson River ",7/28/2016,10:58 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 66, Hudson River ",7/28/2016,7:55 AM,132,,132,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 40, Hudson River",7/28/2016,12:41 PM,30,10 (lab split),30,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 26, Hudson River ",7/28/2016,9:40 AM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 13 (Hoboken), Hudson River",7/28/2016,10:24 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Hoboken Cove Beach, Hudson River",7/28/2016,10:43 AM,85,,85,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Hunts Point Riverside Park, Bronx River",7/28/2016,3:12 PM,204,,204,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",7/28/2016,8:16 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",7/28/2016,8:22 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"World's Fair Marina boat ramp, Flushing Bay",7/28/2016,8:12 AM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+Flushing Creek,7/28/2016,9:32 AM,106,,106,0,0,0,1,0,0,0,0,0,1,N,N,Y
+Meadow Lake (Flushing Meadows-Corona Park),7/28/2016,9:47 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+Little Neck Bay,7/28/2016,8:03 AM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Hallets Cove, East River",7/28/2016,4:00 PM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Anable Basin, East River",7/28/2016,10:15 AM,31,,31,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Gantry State Park, East River",7/28/2016,9:48 AM,41,,41,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"North Brooklyn Boat Club, Newtown Creek",7/28/2016,10:45 AM,20,,20,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"North Henry Street, Newtown Creek",7/28/2016,11:15 AM,41,,41,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Stuyvesant Cove, East River",7/28/2016,,,,,0,0,0,1,0,0,0,0,0,1,N,N,Y
+Bushwick Inlet Park,7/28/2016,8:52 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Wallabout Channel, Brooklyn Navy Yard",7/28/2016,7:17 AM,554,,554,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 42/Jackson St., East River",7/28/2016,,,,,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Main Street Beach (Dumbo), East River",7/28/2016,7:30 AM,10,,10,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Brooklyn Bridge Beach (Manhattan), East River",7/28/2016,9:35 AM,121,,121,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",7/28/2016,10:05 AM,<10,,5,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",7/28/2016,10:01 AM,148,,148,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Valentino Pier, Buttermilk Channel",7/28/2016,9:50 AM,41,,41,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"2nd St. Sponge Park, Gowanus Canal",7/28/2016,8:15 AM,161,,161,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Butler St., Gowanus Canal",7/28/2016,7:54 AM,31,"""non-foam sample""",31,0,0,0,1,0,0,0,0,0,1,N,N,Y
+Prospect Park Lake,7/28/2016,7:30 AM,410,,410,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Pier 101, Governors Island",7/28/2016,,,,,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Bush Terminal Park, Sunset Park",7/28/2016,,,,,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Sebago Canoe Club, Paerdegat Basin",7/28/2016,10:00 AM,128,,128,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Calvert Vaux Park, Coney Island Creek ",7/28/2016,,,,,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"Kaiser Park Beach, Coney Island Creek",7/28/2016,,,,,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"West 20th St., Coney Island Creek",7/28/2016,,,,,0,0,0,1,0,0,0,0,0,1,N,N,Y
+"JFK Marina (Yonkers), Hudson River",7/21/2016,10:31 AM,31,,31,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Yonkers Paddling and Rowing Club, Hudson River",7/21/2016,,,,,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Yonkers, Saw Mill River (daylighted section)",7/21/2016,10:50 AM,73,,73,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Muscota Marsh, Harlem River",7/21/2016,10:53 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"North Cove, Harlem River",7/21/2016,10:38 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Peter J. Sharp Boathouse, Harlem River",7/21/2016,9:43 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Bronx Kill West, Randalls Island",7/21/2016,8:50 AM,146,,146,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Bronx Kill East, Randalls Island",7/21/2016,8:27 AM,155,,155,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Little Hell Gate, Randalls Island",7/21/2016,9:20 AM,10,,10,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Inwood Canoe Club, Hudson River",7/21/2016,8:35 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"West 145th Street, Hudson River",7/21/2016,8:10 AM,10,,10,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"West 133rd St., Hudson River",7/21/2016,7:56 AM,10,,10,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"West 100th Street, Hudson River",7/21/2016,7:32 AM,20,,20,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier I (70th Street), Hudson River",7/21/2016,8:20 AM,10,,10,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 99 boat ramp, Hudson River",7/21/2016,8:22 AM,450,,450,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 96, Hudson River ",7/21/2016,7:59 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 84, Hudson River ",7/21/2016,7:50 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 66, Hudson River ",7/21/2016,9:49 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 40, Hudson River",7/21/2016,12:25 PM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 26, Hudson River ",7/21/2016,10:24 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 13 (Hoboken), Hudson River",7/21/2016,9:25 AM,51,,51,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Hoboken Cove Beach, Hudson River",7/21/2016,9:30 AM,160,,160,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Hunts Point Riverside Park, Bronx River",7/21/2016,11:35 AM,383,,383,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",7/21/2016,8:00 AM,20,,20,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",7/21/2016,8:15 AM,20,,20,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"World's Fair Marina boat ramp, Flushing Bay",7/21/2016,8:30 AM,10,,10,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+Flushing Creek,7/21/2016,9:29 AM,84,,84,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+Meadow Lake (Flushing Meadows-Corona Park),7/21/2016,9:43 AM,31,,31,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+Little Neck Bay,7/21/2016,8:11 AM,52,,52,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Hallets Cove, East River",7/21/2016,3:35 PM,253,,253,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Anable Basin, East River",7/21/2016,10:30 AM,20,,20,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Gantry State Park, East River",7/21/2016,11:20 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"North Brooklyn Boat Club, Newtown Creek",7/21/2016,11:01 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"North Henry Street, Newtown Creek",7/21/2016,11:26 AM,74,,74,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Stuyvesant Cove, East River",7/21/2016,11:14 AM,41,,41,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+Bushwick Inlet Park,7/21/2016,8:36 AM,30,,30,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Wallabout Channel, Brooklyn Navy Yard",7/21/2016,7:29 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 42/Jackson St., East River",7/21/2016,11:37 AM,20,,20,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Main Street Beach (Dumbo), East River",7/21/2016,7:47 AM,10,,10,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Brooklyn Bridge Beach (Manhattan), East River",7/21/2016,9:48 AM,109,,109,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",7/21/2016,10:04 AM,10,,10,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",7/21/2016,10:01 AM,107,,107,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Valentino Pier, Buttermilk Channel",7/21/2016,9:50 AM,31,,31,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"2nd St. Sponge Park, Gowanus Canal",7/21/2016,6:55 AM,122,85 (lab split),122,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Butler St., Gowanus Canal",7/21/2016,6:44 AM,1956,,1956,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+Prospect Park Lake,7/21/2016,7:30 AM,538,,538,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Pier 101, Governors Island",7/21/2016,10:01 AM,<10,,5,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Bush Terminal Park, Sunset Park",7/21/2016,9:35 AM,86,,86,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Sebago Canoe Club, Paerdegat Basin",7/21/2016,9:18 AM,41,,41,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Calvert Vaux Park, Coney Island Creek ",7/21/2016,,,,,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"Kaiser Park Beach, Coney Island Creek",7/21/2016,,,,,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"West 20th St., Coney Island Creek",7/21/2016,,,,,0,0,0,0.35,0,0,0,0,0,0.35,N,N,Y
+"JFK Marina (Yonkers), Hudson River",7/14/2016,10:16 AM,30,,30,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",7/14/2016,10:36 AM,50,,50,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",7/14/2016,10:27 AM,1480,,1480,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Muscota Marsh, Harlem River",7/14/2016,9:49 AM,52,,52,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"North Cove, Harlem River",7/14/2016,9:35 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",7/14/2016,9:58 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Bronx Kill West, Randalls Island",7/14/2016,9:00 AM,4611,,4611,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Bronx Kill East, Randalls Island",7/14/2016,8:52 AM,30,,30,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Little Hell Gate, Randalls Island",7/14/2016,8:40 AM,31,,31,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Inwood Canoe Club, Hudson River",7/14/2016,9:00 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"West 145th Street, Hudson River",7/14/2016,8:24 AM,41,,41,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"West 133rd St., Hudson River",7/14/2016,8:11 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"West 100th Street, Hudson River",7/14/2016,7:52 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier I (70th Street), Hudson River",7/14/2016,8:30 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",7/14/2016,9:32 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 96, Hudson River ",7/14/2016,8:02 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 84, Hudson River ",7/14/2016,7:53 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 66, Hudson River ",7/14/2016,11:40 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 40, Hudson River",7/14/2016,12:20 PM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 26, Hudson River ",7/14/2016,10:19 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",7/14/2016,10:17 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",7/14/2016,10:29 AM,85,,85,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",7/14/2016,11:10 AM,63,,63,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",7/14/2016,8:21 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",7/14/2016,8:30 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",7/14/2016,8:17 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+Flushing Creek,7/14/2016,9:25 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),7/14/2016,9:40 AM,20,,20,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+Little Neck Bay,7/14/2016,8:18 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Hallets Cove, East River",7/14/2016,8:20 AM,31,,31,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Anable Basin, East River",7/14/2016,9:30 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Gantry State Park, East River",7/14/2016,9:01 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",7/14/2016,10:45 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"North Henry Street, Newtown Creek",7/14/2016,11:28 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Stuyvesant Cove, East River",7/14/2016,,,,,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+Bushwick Inlet Park,7/14/2016,10:06 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",7/14/2016,7:37 AM,75,,75,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 42/Jackson St., East River",7/14/2016,,,,,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Main Street Beach (Dumbo), East River",7/14/2016,7:49 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",7/14/2016,9:45 AM,97,,97,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",7/14/2016,10:00 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",7/14/2016,9:56 AM,41,,41,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",7/14/2016,9:41 AM,20,,20,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",7/14/2016,7:05 AM,10,,10,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Butler St., Gowanus Canal",7/14/2016,6:55 AM,813,,813,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+Prospect Park Lake,7/14/2016,7:30 AM,213,,213,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Pier 101, Governors Island",7/14/2016,11:18 AM,<10,<10 (lab split),5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Bush Terminal Park, Sunset Park",7/14/2016,11:05 AM,<10,,5,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",7/14/2016,7:52 AM,223,,223,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",7/14/2016,,,,,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",7/14/2016,,,,,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"West 20th St., Coney Island Creek",7/14/2016,,,,,0.62,0,0,0,0,0.53,0.08,0.62,0.62,0.62,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",7/7/2016,10:09 AM,51,,51,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",7/7/2016,10:30 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",7/7/2016,10:42 AM,216,,216,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Muscota Marsh, Harlem River",7/7/2016,2:12 PM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"North Cove, Harlem River",7/7/2016,2:45 PM,183,,183,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",7/7/2016,11:08 AM,20,,20,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Bronx Kill West, Randalls Island",7/7/2016,9:50 AM,448,,448,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Bronx Kill East, Randalls Island",7/7/2016,9:30 AM,169,,169,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Little Hell Gate, Randalls Island",7/7/2016,10:26 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Inwood Canoe Club, Hudson River",7/7/2016,8:50 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"West 145th Street, Hudson River",7/7/2016,7:52 AM,41,,41,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"West 133rd St., Hudson River",7/7/2016,8:11 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"West 100th Street, Hudson River",7/7/2016,7:32 AM,20,,20,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier I (70th Street), Hudson River",7/7/2016,8:20 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",7/7/2016,9:27 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 96, Hudson River ",7/7/2016,7:58 AM,31,,31,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 84, Hudson River ",7/7/2016,7:50 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 66, Hudson River ",7/7/2016,,,,,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 40, Hudson River",7/7/2016,12:09 PM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 26, Hudson River ",7/7/2016,9:25 AM,20,,20,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",7/7/2016,9:37 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",7/7/2016,9:25 AM,4611,,4611,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",7/7/2016,12:12 PM,52,,52,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",7/7/2016,9:06 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",7/7/2016,9:20 AM,20,,20,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",7/7/2016,9:00 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+Flushing Creek,7/7/2016,10:05 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),7/7/2016,10:24 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+Little Neck Bay,7/7/2016,8:19 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Hallets Cove, East River",7/7/2016,10:40 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Anable Basin, East River",7/7/2016,10:15 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Gantry State Park, East River",7/7/2016,8:05 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",7/7/2016,9:20 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"North Henry Street, Newtown Creek",7/7/2016,9:40 AM,31,,31,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Stuyvesant Cove, East River",7/7/2016,11:33 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+Bushwick Inlet Park,7/7/2016,8:18 AM,2481,,2481,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",7/7/2016,7:33 AM,121,,121,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 42/Jackson St., East River",7/7/2016,11:10 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Main Street Beach (Dumbo), East River",7/7/2016,7:18 AM,<10,,5,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",7/7/2016,10:25 AM,20,,20,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",7/7/2016,10:01 AM,20,,20,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",7/7/2016,10:10 AM,209,,209,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",7/7/2016,9:53 AM,10,10 (lab split),10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",7/7/2016,7:09 AM,10,,10,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Butler St., Gowanus Canal",7/7/2016,6:54 AM,6867,,6867,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+Prospect Park Lake,7/7/2016,7:30 AM,97,95 (lab split),97,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Pier 101, Governors Island",7/7/2016,,,,,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Bush Terminal Park, Sunset Park",7/7/2016,,,,,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",7/7/2016,9:19 AM,94,,94,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",7/7/2016,,,,,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",7/7/2016,,,,,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"West 20th St., Coney Island Creek",7/7/2016,,,,,0.04,0,0.66,0.49,0,0,0.83,0.04,0.7,1.19,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",6/30/2016,11:29 AM,120,,120,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/30/2016,11:00 AM,110,,110,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",6/30/2016,12:15 PM,320,,320,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Muscota Marsh, Harlem River",6/30/2016,8:57 AM,106,,106,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"North Cove, Harlem River",6/30/2016,8:47 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",6/30/2016,10:36 AM,52,,52,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Bronx Kill West, Randalls Island",6/30/2016,8:33 AM,1624,,1624,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Bronx Kill East, Randalls Island",6/30/2016,8:20 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Little Hell Gate, Randalls Island",6/30/2016,8:52 AM,74,,74,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Inwood Canoe Club, Hudson River",6/30/2016,8:30 AM,31,,31,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"West 145th Street, Hudson River",6/30/2016,7:52 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"West 133rd St., Hudson River",6/30/2016,8:04 AM,31,,31,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"West 100th Street, Hudson River",6/30/2016,7:30 AM,20,,20,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier I (70th Street), Hudson River",6/30/2016,8:35 AM,52,,52,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",6/30/2016,9:13 AM,146,,146,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 96, Hudson River ",6/30/2016,8:02 AM,63,,63,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 84, Hudson River ",6/30/2016,7:51 AM,10,,10,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 66, Hudson River ",6/30/2016,7:43 AM,31,,31,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 40, Hudson River",6/30/2016,12:19 PM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 26, Hudson River ",6/30/2016,9:22 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",6/30/2016,9:22 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",6/30/2016,9:31 AM,228,,228,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",6/30/2016,4:45 PM,>24196,,24196,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/30/2016,8:54 AM,10,,10,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/30/2016,9:02 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/30/2016,8:48 AM,52,,52,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+Flushing Creek,6/30/2016,10:00 AM,74,,74,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/30/2016,10:25 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+Little Neck Bay,6/30/2016,8:45 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Hallets Cove, East River",6/30/2016,2:25 PM,31,,31,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Anable Basin, East River",6/30/2016,7:30 AM,52,,52,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Gantry State Park, East River",6/30/2016,6:43 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",6/30/2016,11:11 AM,10,,10,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"North Henry Street, Newtown Creek",6/30/2016,12:58 PM,10,,10,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Stuyvesant Cove, East River",6/30/2016,9:08 AM,41,,41,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+Bushwick Inlet Park,6/30/2016,10:45 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/30/2016,8:18 AM,884,,884,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 42/Jackson St., East River",6/30/2016,8:54 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Main Street Beach (Dumbo), East River",6/30/2016,8:30 AM,20,,20,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/30/2016,9:50 AM,31,,31,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/30/2016,10:08 AM,<10,,5,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/30/2016,10:06 AM,86,187 (lab split),86,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",6/30/2016,9:55 AM,30,,30,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",6/30/2016,6:30 AM,336,,336,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Butler St., Gowanus Canal",6/30/2016,6:20 AM,24196,,24196,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+Prospect Park Lake,6/30/2016,7:30 AM,120,,120,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Pier 101, Governors Island",6/30/2016,,,,,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Bush Terminal Park, Sunset Park",6/30/2016,,,,,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",6/30/2016,9:34 AM,41,,41,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",6/30/2016,,,,,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",6/30/2016,,,,,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"West 20th St., Coney Island Creek",6/30/2016,,,,,0,0.01,0.12,0.45,0,0,0,0.01,0.13,0.58,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",6/23/2016,10:23 AM,241,,241,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Yonkers Paddling and Rowing Club, Hudson River",6/23/2016,10:48 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Yonkers, Saw Mill River (daylighted section)",6/23/2016,11:10 AM,120,,120,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Muscota Marsh, Harlem River",6/23/2016,9:45 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"North Cove, Harlem River",6/23/2016,10:07 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Peter J. Sharp Boathouse, Harlem River",6/23/2016,9:41 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Bronx Kill West, Randalls Island",6/23/2016,9:15 AM,31,,31,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Bronx Kill East, Randalls Island",6/23/2016,8:58 AM,31,,31,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Little Hell Gate, Randalls Island",6/23/2016,8:32 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Inwood Canoe Club, Hudson River",6/23/2016,8:54 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 145th Street, Hudson River",6/23/2016,8:44 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 133rd St., Hudson River",6/23/2016,8:56 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 100th Street, Hudson River",6/23/2016,8:15 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier I (70th Street), Hudson River",6/23/2016,8:20 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 99 boat ramp, Hudson River",6/23/2016,7:48 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 96, Hudson River ",6/23/2016,7:39 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 84, Hudson River ",6/23/2016,7:30 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 66, Hudson River ",6/23/2016,7:20 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 40, Hudson River",6/23/2016,11:57 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 26, Hudson River ",6/23/2016,9:02 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 13 (Hoboken), Hudson River",6/23/2016,9:15 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Hoboken Cove Beach, Hudson River",6/23/2016,9:20 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Hunts Point Riverside Park, Bronx River",6/23/2016,12:35 PM,72,,72,0,0,0,0,0,0,0,0,0,0,N,N,N
+"World's Fair Marina Pier 1 East, Flushing Bay",6/23/2016,9:30 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"World's Fair Marina Pier 1 West, Flushing Bay",6/23/2016,9:37 AM,85,,85,0,0,0,0,0,0,0,0,0,0,N,N,N
+"World's Fair Marina boat ramp, Flushing Bay",6/23/2016,9:52 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+Flushing Creek,6/23/2016,9:30 AM,74,,74,0,0,0,0,0,0,0,0,0,0,N,N,N
+Meadow Lake (Flushing Meadows-Corona Park),6/23/2016,10:00 AM,52,,52,0,0,0,0,0,0,0,0,0,0,N,N,N
+Little Neck Bay,6/23/2016,8:12 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Hallets Cove, East River",6/23/2016,2:30 PM,74,,74,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Anable Basin, East River",6/23/2016,10:00 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Gantry State Park, East River",6/23/2016,7:23 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"North Brooklyn Boat Club, Newtown Creek",6/23/2016,10:12 AM,10,10 (field split),10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"North Henry Street, Newtown Creek",6/23/2016,10:34 AM,86,,86,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Stuyvesant Cove, East River",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+Bushwick Inlet Park,6/23/2016,8:24 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Wallabout Channel, Brooklyn Navy Yard",6/23/2016,11:00 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 42/Jackson St., East River",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Main Street Beach (Dumbo), East River",6/23/2016,11:18 AM,20,,20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Brooklyn Bridge Beach (Manhattan), East River",6/23/2016,9:28 AM,20, 20 (lab split),20,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/23/2016,11:20 AM,<10,,5,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/23/2016,11:19 AM,63,,63,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Valentino Pier, Buttermilk Channel",6/23/2016,11:12 AM,10,,10,0,0,0,0,0,0,0,0,0,0,N,N,N
+"2nd St. Sponge Park, Gowanus Canal",6/23/2016,7:10 AM,161,,161,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Butler St., Gowanus Canal",6/23/2016,7:00 AM,>24196,,24196,0,0,0,0,0,0,0,0,0,0,N,N,N
+Prospect Park Lake,6/23/2016,7:30 AM,554,,554,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Pier 101, Governors Island",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Bush Terminal Park, Sunset Park",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Sebago Canoe Club, Paerdegat Basin",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Calvert Vaux Park, Coney Island Creek ",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"Kaiser Park Beach, Coney Island Creek",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"West 20th St., Coney Island Creek",6/23/2016,,,,,0,0,0,0,0,0,0,0,0,0,N,N,N
+"JFK Marina (Yonkers), Hudson River",6/16/2016,11:55 AM,110,,110,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/16/2016,11:35 AM,180,,180,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",6/16/2016,12:13 PM,570,,570,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Muscota Marsh, Harlem River",6/16/2016,9:59 AM,41,,41,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"North Cove, Harlem River",6/16/2016,9:47 AM,85,,85,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",6/16/2016,9:35 AM,161,,161,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Bronx Kill West, Randalls Island",6/16/2016,8:47 AM,52,,52,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Bronx Kill East, Randalls Island",6/16/2016,8:36 AM,153,,153,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Little Hell Gate, Randalls Island",6/16/2016,8:23 AM,98,,98,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Inwood Canoe Club, Hudson River",6/16/2016,8:20 AM,10,,10,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"West 145th Street, Hudson River",6/16/2016,8:51 AM,20,,20,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"West 133rd St., Hudson River",6/16/2016,9:04 AM,41,,41,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"West 100th Street, Hudson River",6/16/2016,8:28 AM,1725,,1725,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier I (70th Street), Hudson River",6/16/2016,8:20 AM,10,,10,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",6/16/2016,9:32 AM,266,,266,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 96, Hudson River ",6/16/2016,8:20 AM,75,,75,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 84, Hudson River ",6/16/2016,8:08 AM,52,,52,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 66, Hudson River ",6/16/2016,7:57 AM,20,,20,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 40, Hudson River",6/16/2016,12:11 PM,20,,20,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 26, Hudson River ",6/16/2016,10:15 AM,<10,,5,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",6/16/2016,7:55 AM,98,109 (lab split),98,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",6/16/2016,8:00 AM,959,,959,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",6/16/2016,,,,,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/16/2016,9:17 AM,20,,20,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/16/2016,9:24 AM,<10,,5,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/16/2016,9:36 AM,41,,41,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+Flushing Creek,6/16/2016,8:48 AM,63,,63,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/16/2016,9:02 AM,<10,,5,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+Little Neck Bay,6/16/2016,8:22 AM,<10,,5,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Hallets Cove, East River",6/16/2016,,97,,97,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Anable Basin, East River",6/16/2016,,31,,31,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Gantry State Park, East River",6/16/2016,,,,,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",6/16/2016,11:05 AM,134,,134,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"North Henry Street, Newtown Creek",6/16/2016,11:39 AM,776,,776,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Stuyvesant Cove, East River",6/16/2016,11:08 AM,20,,20,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+Bushwick Inlet Park,6/16/2016,9:52 AM,86,,86,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/16/2016,7:59 AM,148,,148,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 42/Jackson St., East River",6/16/2016,11:25 AM,199,,199,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Main Street Beach (Dumbo), East River",6/16/2016,8:13 AM,41,,41,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/16/2016,9:45 AM,<10,,5,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/16/2016,10:00 AM,<10,,5,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/16/2016,9:51 AM,311,,311,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",6/16/2016,9:42 AM,84,,84,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",6/16/2016,6:15 AM,145,,145,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Butler St., Gowanus Canal",6/16/2016,6:09 AM,>24196,,24196,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+Prospect Park Lake,6/16/2016,7:15 AM,651,,651,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Pier 101, Governors Island",6/16/2016,,,,,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Bush Terminal Park, Sunset Park",6/16/2016,,,,,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",6/16/2016,9:42 AM,1145,,1145,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",6/16/2016,,,,,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",6/16/2016,,,,,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"West 20th St., Coney Island Creek",6/16/2016,,,,,0.22,0,0,0,0,0,0,0.22,0.22,0.22,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",6/9/2016,11:35 AM,336,,336,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/9/2016,11:55 AM,327,,327,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Muscota Marsh, Harlem River",6/9/2016,9:51 AM,561,,561,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"North Cove, Harlem River",6/9/2016,9:40 AM,226,,226,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",6/9/2016,10:17 AM,95,,95,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Bronx Kill West, Randalls Island",6/9/2016,9:33 AM,173,,173,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Bronx Kill East, Randalls Island",6/9/2016,9:18 AM,63,,63,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Little Hell Gate, Randalls Island",6/9/2016,9:48 AM,266,,266,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Inwood Canoe Club, Hudson River",6/9/2016,7:45 AM,195,,195,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"West 145th Street, Hudson River",6/9/2016,9:23 AM,52,,52,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"West 133rd St., Hudson River",6/9/2016,9:35 AM,75,,75,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"West 100th Street, Hudson River",6/9/2016,8:57 AM,213,,213,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier I (70th Street), Hudson River",6/9/2016,8:20 AM,135,,135,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 99 boat ramp, Hudson River",6/9/2016,7:50 AM,185,,185,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 96, Hudson River ",6/9/2016,7:47 AM,134,,134,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 84, Hudson River ",6/9/2016,7:38 AM,85,,85,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 66, Hudson River ",6/9/2016,11:13 AM,10,,10,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 40, Hudson River",6/9/2016,12:17 AM,20,,20,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 26, Hudson River ",6/9/2016,10:30 AM,30,,30,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 13 (Hoboken), Hudson River",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Hoboken Cove Beach, Hudson River",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Hunts Point Riverside Park, Bronx River",6/9/2016,5:05 PM,>24196,,24196,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/9/2016,9:25 AM,2723,,2723,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/9/2016,9:30 AM,241,,241,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+Flushing Creek,6/9/2016,9:35 AM,350,,350,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/9/2016,9:53 AM,10,,10,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+Little Neck Bay,6/9/2016,8:23 AM,<10,,5,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Hallets Cove, East River",6/9/2016,8:20 AM,84,,84,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Anable Basin, East River",6/9/2016,8:45 AM,3873,,3873,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Gantry State Park, East River",6/9/2016,7:10 AM,63,,63,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",6/9/2016,10:34 AM,189,,189,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"North Henry Street, Newtown Creek",6/9/2016,11:05 AM,1291,,1291,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Stuyvesant Cove, East River",6/9/2016,11:08 AM,75,<10 (lab split),75,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+Bushwick Inlet Park,6/9/2016,11:08 AM,131,,131,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/9/2016,8:40 AM,17329,,17329,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 42/Jackson St., East River",6/9/2016,10:56 AM,41,,41,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Main Street Beach (Dumbo), East River",6/9/2016,8:51 AM,63,,63,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/9/2016,10:18 AM,30,,30,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/9/2016,10:19 AM,41,,41,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/9/2016,10:16 AM,216,,216,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Valentino Pier, Buttermilk Channel",6/9/2016,10:01 AM,332,,332,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",6/9/2016,7:00 AM,199,,199,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Butler St., Gowanus Canal",6/9/2016,6:45 AM,52,"""non-foam sample""",52,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+Prospect Park Lake,6/9/2016,7:45 AM,108,,108,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Pier 101, Governors Island",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Bush Terminal Park, Sunset Park",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",6/9/2016,7:14 AM,172,,172,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Kaiser Park Beach, Coney Island Creek",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"West 20th St., Coney Island Creek",6/9/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"JFK Marina (Yonkers), Hudson River",6/2/2016,,,,,0,0.45,0,0,0.91,0.4,0.04,0.45,0.45,0.45,Y,Y,Y
+"Yonkers Paddling and Rowing Club, Hudson River",6/2/2016,12:15 PM,70,,70,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Yonkers, Saw Mill River (daylighted section)",6/2/2016,12:05 PM,320,,320,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Muscota Marsh, Harlem River",6/2/2016,9:05 AM,253,,253,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"North Cove, Harlem River",6/2/2016,10:33 AM,63,,63,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Peter J. Sharp Boathouse, Harlem River",6/2/2016,7:07 AM,10,,10,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Bronx Kill West, Randalls Island",6/2/2016,8:44 AM,487,,487,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Bronx Kill East, Randalls Island",6/2/2016,8:32 AM,146,,146,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Little Hell Gate, Randalls Island",6/2/2016,8:20 AM,10,,10,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Inwood Canoe Club, Hudson River",6/2/2016,7:55 AM,52,,52,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"West 145th Street, Hudson River",6/2/2016,9:10 AM,41,,41,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"West 133rd St., Hudson River",6/2/2016,9:22 AM,84,,84,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"West 100th Street, Hudson River",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier I (70th Street), Hudson River",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 99 boat ramp, Hudson River",6/2/2016,9:37 AM,173,,173,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 96, Hudson River ",6/2/2016,7:53 AM,31,,31,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 84, Hudson River ",6/2/2016,7:43 AM,20,,20,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 66, Hudson River ",6/2/2016,11:58 AM,74,,74,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 40, Hudson River",6/2/2016,11:20 AM,<10,,5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 26, Hudson River ",6/2/2016,9:00 AM,<10,<10 (lab split),5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 13 (Hoboken), Hudson River",6/2/2016,10:35 AM,10,,10,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Hoboken Cove Beach, Hudson River",6/2/2016,10:45 AM,845,,845,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Hunts Point Riverside Park, Bronx River",6/2/2016,5: 10 PM,<10,,5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",6/2/2016,9:32 AM,20,,20,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",6/2/2016,9:34 AM,10,,10,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"World's Fair Marina boat ramp, Flushing Bay",6/2/2016,9:44 AM,10,,10,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+Flushing Creek,6/2/2016,9:25 AM,30,,30,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+Meadow Lake (Flushing Meadows-Corona Park),6/2/2016,9:43 AM,31,,31,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+Little Neck Bay,6/2/2016,8:15 AM,<10,,5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Hallets Cove, East River",6/2/2016,8:10 AM,203,,203,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Anable Basin, East River",6/2/2016,8:25 AM,<10,,5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Gantry State Park, East River",6/2/2016,8:00 AM,<10,,5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"North Brooklyn Boat Club, Newtown Creek",6/2/2016,11:32 AM,<10,,5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"North Henry Street, Newtown Creek",6/2/2016,1:25 PM,20,,20,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Stuyvesant Cove, East River",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+Bushwick Inlet Park,6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Wallabout Channel, Brooklyn Navy Yard",6/2/2016,9:31 AM,86,,86,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 42/Jackson St., East River",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Main Street Beach (Dumbo), East River",6/2/2016,9:53 AM,63,,63,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Brooklyn Bridge Beach (Manhattan), East River",6/2/2016,9:55 AM,265,,265,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",6/2/2016,10:14 AM,<10,,5,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",6/2/2016,10:12 AM,3873,,3873,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Valentino Pier, Buttermilk Channel",6/2/2016,10:03 AM,10,,10,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"2nd St. Sponge Park, Gowanus Canal",6/2/2016,6:55 AM,426,,426,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Butler St., Gowanus Canal",6/2/2016,6:40 AM,3255,,3255,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+Prospect Park Lake,6/2/2016,7:15 AM,341,,341,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Pier 101, Governors Island",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Bush Terminal Park, Sunset Park",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Sebago Canoe Club, Paerdegat Basin",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Calvert Vaux Park, Coney Island Creek ",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"Kaiser Park Beach, Coney Island Creek",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"West 20th St., Coney Island Creek",6/2/2016,,,,,0,0,0,1.65,0,0,0,0,0,1.65,N,N,Y
+"JFK Marina (Yonkers), Hudson River",5/26/2016,8: 14 AM,10,,10,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,N,Y
+"Yonkers Paddling and Rowing Club, Hudson River",5/26/2016,12: 00 PM,10,,10,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Yonkers, Saw Mill River (daylighted section)",5/26/2016,11:50 AM,488,,488,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Muscota Marsh, Harlem River",5/26/2016,10: 14 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"North Cove, Harlem River",5/26/2016,10: 57 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Peter J. Sharp Boathouse, Harlem River",5/26/2016,9:00 AM,10,,10,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Bronx Kill West, Randalls Island",5/26/2016,9: 44 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Bronx Kill East, Randalls Island",5/26/2016,9: 29 AM,52,,52,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Little Hell Gate, Randalls Island",5/26/2016,8: 59 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Inwood Canoe Club, Hudson River",5/26/2016,7: 40 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"West 145th Street, Hudson River",5/26/2016,8: 45 AM,31,,31,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"West 133rd St., Hudson River",5/26/2016,8: 59 AM,10,,10,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"West 100th Street, Hudson River",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier I (70th Street), Hudson River",5/26/2016,8: 20:AM,20,,20,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 99 boat ramp, Hudson River",5/26/2016,9: 18 AM,20,,20,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 96, Hudson River ",5/26/2016,7:56 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 84, Hudson River ",5/26/2016,7:46 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 66, Hudson River ",5/26/2016,11:29 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 40, Hudson River",5/26/2016,11;38 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 26, Hudson River ",5/26/2016,10:40 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 13 (Hoboken), Hudson River",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Hoboken Cove Beach, Hudson River",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Hunts Point Riverside Park, Bronx River",5/26/2016,4: 51 PM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"World's Fair Marina Pier 1 East, Flushing Bay",5/26/2016,9: 44 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"World's Fair Marina Pier 1 West, Flushing Bay",5/26/2016,9: 25 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"World's Fair Marina boat ramp, Flushing Bay",5/26/2016,9: 44 AM,20,,20,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+Flushing Creek,5/26/2016,9: 41 AM,345,,345,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+Meadow Lake (Flushing Meadows-Corona Park),5/26/2016,9: 57 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+Little Neck Bay,5/26/2016,8: 18 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Hallets Cove, East River",5/26/2016,8:06 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Anable Basin, East River",5/26/2016,8:21 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Gantry State Park, East River",5/26/2016,8:30 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"North Brooklyn Boat Club, Newtown Creek",5/26/2016,11:50 AM,20,,20,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"North Henry Street, Newtown Creek",5/26/2016,12:07 PM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Stuyvesant Cove, East River",5/26/2016,10:55 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+Bushwick Inlet Park,5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Wallabout Channel, Brooklyn Navy Yard",5/26/2016,6:43 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 42/Jackson St., East River",5/26/2016,10:45 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Main Street Beach (Dumbo), East River",5/26/2016,6:58 AM,528,627 (lab split),528,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Brooklyn Bridge Beach (Manhattan), East River",5/26/2016,9:23 AM,20,,20,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",5/26/2016,7:05 AM,10,,10,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 4 beach, Brooklyn Bridge Park, East River",5/26/2016,7:09 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Valentino Pier, Buttermilk Channel",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"2nd St. Sponge Park, Gowanus Canal",5/26/2016,7:10 AM,<10,,5,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Butler St., Gowanus Canal",5/26/2016,6:55 AM,823,,823,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+Prospect Park Lake,5/26/2016,7:39 AM,333,,333,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Pier 101, Governors Island",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Bush Terminal Park, Sunset Park",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Sebago Canoe Club, Paerdegat Basin",5/26/2016,8:47 AM,20,,20,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Calvert Vaux Park, Coney Island Creek ",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"Kaiser Park Beach, Coney Island Creek",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"West 20th St., Coney Island Creek",5/26/2016,,,,,0,0,0.18,0.02,0.09,0.04,0,0,0.18,0.2,N,Y,Y
+"JFK Marina (Yonkers), Hudson River",5/19/2016,12: 30 PM,20,,20,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Yonkers Paddling and Rowing Club, Hudson River",5/19/2016,12: 16 PM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Yonkers, Saw Mill River (daylighted section)",5/19/2016,10:50 AM,360,,360,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Muscota Marsh, Harlem River",5/19/2016,11: 27 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"North Cove, Harlem River",5/19/2016,11: 08 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Peter J. Sharp Boathouse, Harlem River",5/19/2016,9: 24 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Bronx Kill West, Randalls Island",5/19/2016,9: 06 AM,52,,52,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Bronx Kill East, Randalls Island",5/19/2016,8: 47 AM,30,,30,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Little Hell Gate, Randalls Island",5/19/2016,8: 28 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Inwood Canoe Club, Hudson River",5/19/2016,8: 30 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"West 145th Street, Hudson River",5/19/2016,8: 50 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"West 133rd St., Hudson River",5/19/2016,9: 02 AM,40,,40,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"West 100th Street, Hudson River",5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier I (70th Street), Hudson River",5/19/2016,8: 20 AM,31,,31,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 99 boat ramp, Hudson River",5/19/2016,9: 54 AM,20,,20,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 96, Hudson River ",5/19/2016,11:21 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 84, Hudson River ",5/19/2016,11:36 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 66, Hudson River ",5/19/2016,11:49 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 40, Hudson River",5/19/2016,12:10 PM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 26, Hudson River ",5/19/2016,10:30 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 13 (Hoboken), Hudson River",5/19/2016,11:30 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Hoboken Cove Beach, Hudson River",5/19/2016,11:40 AM,345,,345,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Hunts Point Riverside Park, Bronx River",5/19/2016,4:45 PM,96,,96,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"World's Fair Marina Pier 1 East, Flushing Bay",5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"World's Fair Marina Pier 1 West, Flushing Bay",5/19/2016,9: 45 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"World's Fair Marina boat ramp, Flushing Bay",5/19/2016,9: 41 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+Flushing Creek,5/19/2016,9: 32 AM,20,,20,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+Meadow Lake (Flushing Meadows-Corona Park),5/19/2016,9: 56 AM,"12,033",docks used by geese had just been cleaned,12033,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+Little Neck Bay,5/19/2016,8: 30 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Hallets Cove, East River",5/19/2016,7: 45 AM,63,,63,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Anable Basin, East River",5/19/2016,7: 30 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Gantry State Park, East River",5/19/2016,8:15 AM,84,,84,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"North Brooklyn Boat Club, Newtown Creek",5/19/2016,11:50 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"North Henry Street, Newtown Creek",5/19/2016,12:20 PM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Stuyvesant Cove, East River",5/19/2016,9:44 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+Bushwick Inlet Park,5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Wallabout Channel, Brooklyn Navy Yard",5/19/2016,8:05 AM,132,98 (lab split),132,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 42/Jackson St., East River",5/19/2016,9:15 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Main Street Beach (Dumbo), East River",5/19/2016,7:51 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Brooklyn Bridge Beach (Manhattan), East River",5/19/2016,9:30 AM,10,,10,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 2 kayak dock, Brooklyn Bridge Park, East River",5/19/2016,10:00 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 4 beach, Brooklyn Bridge Park, East River",5/19/2016,9:56 AM,52,,52,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Valentino Pier, Buttermilk Channel",5/19/2016,9:43 AM,<10,,5,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"2nd St. Sponge Park, Gowanus Canal",5/19/2016,6: 58 AM,52,,52,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Butler St., Gowanus Canal",5/19/2016,7:05 AM,683,,683,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+Prospect Park Lake,5/19/2016,7: 39 AM,211,,211,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Pier 101, Governors Island",5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Bush Terminal Park, Sunset Park",5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Sebago Canoe Club, Paerdegat Basin",5/19/2016,9: 15 AM,1414,,1414,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Calvert Vaux Park, Coney Island Creek ",5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"Kaiser Park Beach, Coney Island Creek",5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
+"West 20th St., Coney Island Creek",5/19/2016,,,,,0,0,0,0,0,0,0.25,0,0,0,N,N,N
